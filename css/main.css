@@ -1,0 +1,59 @@
+	p {
+		color: #1f3a93;
+	}	
+
+	footer, div {
+		background-color: #ecf0f1;
+	}
+
+	div span {
+		font-weight: bold;
+		font-style: italic;
+		color: #000;
+	}
+
+	.largeText {
+		font-size: 20px;
+	}
+
+	.greenColor {
+		color: green;
+	}
+
+	#logo-image {
+		height: 100px;
+		width: 100px;
+	}
+
+
+	.largeText.header {
+		font-size: 30px;
+	}
+
+
+    #header-Two {
+    	color: green;
+    }
+
+    .headerTwo {
+    	color: blue;
+    }
+
+	h2 {
+		color: red;
+	}
+
+
+    p.greenColor {
+		color: green;
+	}
+
+
+	.greenColor {
+		color: red;
+	}
+
+
+/*body {
+	background-color: #aeaeae;
+}*/
